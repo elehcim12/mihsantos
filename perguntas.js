@@ -54,5 +54,5 @@ criaCartao(
 criaCartao(
     'geografia',
     'quantos estados tem o brasil?',
-    '26 estrados e 1 destrito federal'
+    '26 estrados e 1 destrito federal.'
 )
